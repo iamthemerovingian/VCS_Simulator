@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunicationSample", "CommunicationSample\CommunicationSample.csproj", "{2761C16E-F858-4D86-A99C-32DD2779713E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2761C16E-F858-4D86-A99C-32DD2779713E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2761C16E-F858-4D86-A99C-32DD2779713E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2761C16E-F858-4D86-A99C-32DD2779713E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2761C16E-F858-4D86-A99C-32DD2779713E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
