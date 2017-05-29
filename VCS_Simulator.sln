@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunicationSample", "CommunicationSample\CommunicationSample.csproj", "{2761C16E-F858-4D86-A99C-32DD2779713E}"
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VCS_Simulator", "VCS_Simulator\VCS_Simulator.csproj", "{2761C16E-F858-4D86-A99C-32DD2779713E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
