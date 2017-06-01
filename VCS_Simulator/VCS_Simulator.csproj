@@ -35,9 +35,8 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Communication, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\DLL\Release\Communication.dll</HintPath>
+    <Reference Include="Communication">
+      <HintPath>References\Communication.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
